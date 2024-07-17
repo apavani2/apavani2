@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Machine Learning and Robotics
-- 🌱 I’m currently learning a breadth of topics in Robotics, Computer Visoion, Generative AI   
+- 🌱 I’m currently learning a breadth of topics in Robotics, Computer Vision, Generative AI   
 - 💞️ I’m looking to collaborate on projects related to ML and Robotics 
 - 📫 How to reach me. On my email abhishek.s.pavani@gmail.com
 
